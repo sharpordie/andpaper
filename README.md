@@ -1,5 +1,5 @@
 <hr><div>
-<a href="../.."><img align="right" height="91"src="assets/logo.png" alt="logo"></a>
+<a href="../.."><img align="right" height="91" src="assets/logo.png" alt="logo"></a>
 <h1>andpaper</h1>
 <p>Wallpapers for Android enthusiasts</p>
 </div><hr>
