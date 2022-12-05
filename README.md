@@ -6,7 +6,7 @@
 
 <h2><samp>OVERVIEW</samp></h2>
 
-Unofficial desktop wallpapers for any Android developers or enthusiasts.
+Unofficial wallpapers for any Android enthusiasts.
 
 <h2><samp>SHOWCASE</samp></h2>
 
