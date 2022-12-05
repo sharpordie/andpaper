@@ -1,23 +1,23 @@
 <hr><div>
-<a href="../.."><img align="right" height="91" src="assets/logo.png" alt="logo"></a>
-<h1>andpaper</h1>
-<p>Wallpapers for Android enthusiasts</p>
+<a href="../.."><img align="right" height="91" src="assets/logo.png"></a>
+<h1>ANDPAPER</h1>
+<p>Wallpapers for Android Enthusiasts</p>
 </div><hr>
 
-## `Preface`
+<h2><samp>OVERVIEW</samp></h2>
 
 Unofficial desktop wallpapers for any Android developers or enthusiasts.
 
-## `Gallery`
+<h2><samp>SHOWCASE</samp></h2>
 
-### Bottom variant
+### Bottom Variant
 
 <a href="src/android-bottom-bright.png"><img src="src/android-bottom-bright.svg" width="49%"/></a><a><img src="assets/none.png" width="2%"/></a><a href="src/android-bottom-darken.png"><img src="src/android-bottom-darken.svg" width="49%"/></a>
 
-### Higher variant
+### Higher Variant
 
 <a href="src/android-higher-bright.png"><img src="src/android-higher-bright.svg" width="49%"/></a><a><img src="assets/none.png" width="2%"/></a><a href="src/android-higher-darken.png"><img src="src/android-higher-darken.svg" width="49%"/></a>
 
-### Middle variant
+### Middle Variant
 
 <a href="src/android-middle-bright.png"><img src="src/android-middle-bright.svg" width="49%"/></a><a><img src="assets/none.png" width="2%"/></a><a href="src/android-middle-darken.png"><img src="src/android-middle-darken.svg" width="49%"/></a>
