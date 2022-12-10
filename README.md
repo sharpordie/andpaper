@@ -4,11 +4,11 @@
 <p>Wallpapers for Android Enthusiasts</p>
 </div><hr>
 
-<h2><samp>OVERVIEW</samp></h2>
+<h2><samp>PREFACE</samp></h2>
 
 Unofficial wallpapers for any Android enthusiasts.
 
-<h2><samp>SHOWCASE</samp></h2>
+<h2><samp>PREVIEW</samp></h2>
 
 ### Bottom Variant
 
