@@ -1,14 +1,8 @@
-<hr><div>
-<a href="../.."><img align="right" height="91" src="assets/logo.png"></a>
-<h1>ANDPAPER</h1>
-<p>Wallpapers for Android Enthusiasts</p>
-</div><hr>
-
-<h2><samp>PREFACE</samp></h2>
+# <samp>ANDPAPER</samp>
 
 Unofficial wallpapers for any Android enthusiasts.
 
-<h2><samp>PREVIEW</samp></h2>
+## <samp>PREVIEW</samp>
 
 ### Bottom Variant
 
