@@ -16,7 +16,7 @@ Unofficial wallpapers for any Android enthusiasts.
 
 # <samp>FUNDINGS</samp>
 
-You can support my work by sending me some crypto.
+Support my work by sending me some crypto.
 
 ```txt
 ADA: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
